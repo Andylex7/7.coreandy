@@ -1,2 +1,2 @@
-# 7.coreandy
-le football c'est mavie
+ALX Frontend Web Dev
+software engineer
